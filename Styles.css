@@ -270,7 +270,7 @@ html {
 }
 
 .projectheading {
-  color: #0251ac;
+  color: #0251ac !important;
 }
 
 .contactbg {
@@ -279,7 +279,7 @@ html {
 }
 
 .contactheading {
-  color: #0251ac;
+  color: #0251ac !important;
 }
 
 .contactlabel {
