@@ -269,9 +269,17 @@ html {
   text-align: justify;
 }
 
+.projectheading {
+  color: #0251ac;
+}
+
 .contactbg {
   width: 75%;
   border-radius: 1.25rem;
+}
+
+.contactheading {
+  color: #0251ac;
 }
 
 .contactlabel {
